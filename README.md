@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Johnny
-- 👀 I’m interested in Development, Asterisk and Avaya
+- 👀 I’m interested in Development, Asterisk, Avaya and MySQL
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on International Companies
 - 📫 How to reach me https://www.linkedin.com/in/johnnycorr/
